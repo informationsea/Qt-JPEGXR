@@ -1,0 +1,3 @@
+[submodule "jxrlib"]
+	path = jxrlib
+	url = https://git01.codeplex.com/jxrlib
